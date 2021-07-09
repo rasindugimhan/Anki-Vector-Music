@@ -1,9 +1,9 @@
 {
-  "name": "Anki Vector Music",
-  "logo": "https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg",
+  "name": "ShizuMusicBot",
+  "logo": "https://telegra.ph/file/b9aefec032701d1235952.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Damantha126/Anki-Vector-Music",
+  "repository": "https://github.com/rasindugimhan/Anki-Vector-Music",
   "stack": "container",
   "buildpacks": [
    {
